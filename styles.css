@@ -9,9 +9,10 @@
 }
 .item{
 	display : flex ;
-}
-.item-1{
 	width : 100px ;
 	height : 100px ;
+}
+.item-1{
+	
 	background-color : red ;
 }
