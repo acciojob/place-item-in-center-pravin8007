@@ -7,16 +7,18 @@
 	width : 100vw ;
 	height : 100vh;
 }
-/* .item{
+.item{
 	display : flex ;
 	justify-content : center ;
 	align-items : center ;
 	width : 100px ;
 	height : 100px ;
-} */
-.item-1{
+    text-align : center;
+	background-color : red ;
+}
+/* .item-1{
 	width : 100px ;
 	height : 100px ;
 	text-align : center;
 	background-color : red ;
-}
+} */
