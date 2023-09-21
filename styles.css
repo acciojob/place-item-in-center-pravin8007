@@ -7,8 +7,10 @@
 	width : 100vw ;
 	height : 100vh;
 }
+.item{
+	display : flex ;
+}
 .item-1{
-/* 	display : flex; */
 	width : 100px ;
 	height : 100px ;
 	background-color : red ;
