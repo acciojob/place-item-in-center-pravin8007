@@ -1,5 +1,10 @@
 
 /* Your CSS Code here. */
+body{
+	margin : 0 ;
+	padding : 0;
+    height : 100%;
+}
 .holder{
    display : flex;
 	justify-content : center;
