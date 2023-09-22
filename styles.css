@@ -1,12 +1,13 @@
 
 /* Your CSS Code here. */
 body{
+	display : flex ;
 	margin : 0 ;
 	padding : 0 ;
     height : 100% ;
 }
 .holder{
-   display : flex ;
+    display : flex ;
 	justify-content : center;
 	align-items : center ;
 	height : 100vh;
