@@ -1,7 +1,6 @@
 
 /* Your CSS Code here. */
 body{
-	display : flex ;
 	margin : 0 ;
 	padding : 0 ;
     height : 100% ;
@@ -16,8 +15,8 @@ body{
 }
 .item-1{
 	display : flex ;
-	justify-content : center;
 	align-items : center ;
+	text-align : center ;
 	background-color : red;
 	width : 100px ;
 	height : 100px ;
