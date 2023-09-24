@@ -1,25 +1,18 @@
 
-/* Your CSS Code here. */
-body{
-/* 	display : flex ; */
-	margin : 0 ;
-	padding : 0 ;
-    height : 100% ;
+/* Ensure holder takes full viewport width and height */
+.holder {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  width: 100vw;
+  height: 100vh;
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
 }
-.holder{
-    display : flex ;
-	justify-content : center;
-	align-items : center ;
-	height : 100vh;
-	width : 100vw ;
-	background-color : gray;
-	
-}
-.item-1{
-	display : flex ;
-	align-items : center ;
-	text-align : center ;
-	background-color : red;
-	width : 100px ;
-	height : 100px ;
+
+/* Style for item-1 */
+.item-1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
 }
