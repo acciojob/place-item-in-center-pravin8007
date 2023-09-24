@@ -1,21 +1,18 @@
 
 /* Ensure holder takes full viewport width and height */
+/* Apply appropriate styles to the holder to center item-1 */
 .holder {
-  display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-  width: 100vw;
-  height: 100vh;
-  margin: 0; /* Remove default margin */
-  padding: 0; /* Remove default padding */
+    display: flex; /* Use flex display */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    width: 100vw; /* Full viewport width */
+    height: 100vh; /* Full viewport height */
 }
 
 /* Style for item-1 */
 .item-1 {
-  display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center;
-  width: 100px;
-  height: 100px;
-  background-color: red;
+    width: 100px;
+    height: 100px;
+    background-color: red;
 }
+
