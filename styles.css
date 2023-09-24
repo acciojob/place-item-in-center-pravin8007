@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 body{
-	display : flex ;
+/* 	display : flex ; */
 	margin : 0 ;
 	padding : 0 ;
     height : 100% ;
@@ -16,7 +16,7 @@ body{
 	
 }
 .item-1{
-	display : Flex ;
+	display : flex ;
 	align-items : center ;
 	text-align : center ;
 	background-color : red;
