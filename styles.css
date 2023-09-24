@@ -9,9 +9,10 @@
 
 /* Style for item-1 */
 .item-1 {
-	display: flex; /* Use flex display */
-    justify-content: center; /* Center horizontally */
+	display : flex; /* Use flex display */
+    justify-content : center; /* Center horizontally */
     align-items: center; 
+	text-align : center;
     width: 100px;
     height: 100px;
     background-color: red;
