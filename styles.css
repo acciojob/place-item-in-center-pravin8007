@@ -6,7 +6,7 @@ body{
 	
 }
 .holder {
-  display : flex; /* Make the holder a flex container */
+  display : block; /* Make the holder a flex container */
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
   width :  100vw; /* Take the full viewport width */
