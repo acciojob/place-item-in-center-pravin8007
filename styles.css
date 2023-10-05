@@ -3,7 +3,7 @@
   display : flex; /* Make the holder a flex container */
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
-  width :  100%; /* Take the full viewport width */
+  width :  100vw; /* Take the full viewport width */
   height : 100vh; /* Take the full viewport height */
 }
 
