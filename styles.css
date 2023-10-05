@@ -11,6 +11,7 @@ body{
   align-items: center; /* Center vertically */
   width :  100vw; /* Take the full viewport width */
   height : 100vh; /* Take the full viewport height */
+   text-align : center ;
 }
 
 /* Apply these styles to item-1 */
@@ -21,6 +22,5 @@ body{
 /*  display : flex;
  justify-content : center;
  align-items : center ; */
-/*    text-align : center ; */
 
 }
